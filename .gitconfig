@@ -1,0 +1,8 @@
+[user]
+	name = Ilyas Hamdi
+[core]
+	editor = subl
+	excludesfile = ~/.gitignore_global
+
+[color]
+	ui = true
